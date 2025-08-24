@@ -1,0 +1,15 @@
+{
+    "short_name": "Team Managerrr",
+    "name": "Team Managerrr - Cyberpunk Team Management",
+    "icons": [
+      {
+        "src": "logo.gif",
+        "type": "image/gif",
+        "sizes": "45x45"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#000000"
+  }
